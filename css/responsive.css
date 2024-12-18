@@ -1,0 +1,16 @@
+
+@media (max-width: 1199px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+@media (max-width: 767px) {
+	.page3 .page3Right {
+		padding: 20px;
+	}
+	.page3 .page3Right h2 {
+		font-size: 28px;
+	}
+}
+
